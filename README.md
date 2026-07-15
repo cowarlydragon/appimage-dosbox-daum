@@ -12,6 +12,6 @@ The steps to rebuild the appimage:
 
 3) put the shell file in that directory
 
-4) run the shell file: ./ZZZ-claude-build_dosbox_appimage.sh <directory where the dosbox daum binary is>
+4) run the shell file: ./ZZZ-claude-build_dosbox_appimage.sh (directory where the dosbox daum binary is)
 
 Disclaimer: I so far have only verified that the DOSBox UI appears when I run the appimage.
